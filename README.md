@@ -41,13 +41,6 @@ I write across the stack — TypeScript, Python, PowerShell, the occasional bit 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-### GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zriser&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zriser&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
-</p>
-
 ### Reach
 
 - **Email** — [zach@pulsewavetech.io](mailto:zach@pulsewavetech.io)
